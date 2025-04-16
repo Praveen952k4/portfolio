@@ -38,6 +38,9 @@ import project32 from "../../Assets/Projects/32.jpg";
 import project33 from "../../Assets/Projects/33.jpg";
 import project34 from "../../Assets/Projects/34.jpg";
 import project35 from "../../Assets/Projects/35.jpg";
+import unstop1 from "../../Assets/Projects/unstop1.jpg";
+import unstop2 from "../../Assets/Projects/unstop2.jpg";
+import unstop3 from "../../Assets/Projects/unstop3.jpg";
 
 function Projects() {
   return (
@@ -333,6 +336,27 @@ function Projects() {
               <CertificateCard
                 title="BIS(Bureau of Indian Standards) Organizer"
                 certLink={is}
+              />
+            </Col>
+            <h1 className="project-heading" style={{ marginTop: "50px" }}>
+          Online <strong className="purple">Certificate</strong>
+        </h1>
+        <Col md={4} sm={6} xs={12} className="project-card">
+              <CertificateCard
+                title="National level coding Challenge"
+                certLink={unstop1}
+              />
+            </Col>
+            <Col md={4} sm={6} xs={12} className="project-card">
+              <CertificateCard
+                title="K! Hacks 2.0, Anna University"
+                certLink={unstop2}
+              />
+            </Col>
+            <Col md={4} sm={6} xs={12} className="project-card">
+              <CertificateCard
+                title="Shaastra Programming Contest"
+                certLink={unstop3}
               />
             </Col>
         </Row>
