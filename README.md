@@ -1,6 +1,6 @@
 # 🌐 My Personal Portfolio
 
-[![Website](https://img.shields.io/badge/View%20Portfolio-Live-brightgreen)](https://portfolio-2c0usn7zh-praveen-ks-projects-e93b84ef.vercel.app)
+[![Website](https://img.shields.io/badge/View%20Portfolio-Live-brightgreen)](https://portfolio-2c0usn7zh-praveen-ks-projects-e93b84ef.vercel.app/about)
 
 ## 📌 Overview
 Welcome to my personal portfolio!  
@@ -26,9 +26,7 @@ It is designed to give visitors a clear view of my professional journey, technic
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript, React.js
-- **Styling:** Tailwind CSS
+- **Styling:** Tailwind CSS 
 - **Deployment:** Vercel
 
 ---
-
-
